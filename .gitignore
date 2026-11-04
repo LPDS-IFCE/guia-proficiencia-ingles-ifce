@@ -1,0 +1,17 @@
+.commandcode/*
+
+# SO
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Editores
+.vscode/
+.idea/

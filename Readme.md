@@ -1,104 +1,66 @@
-# 📚 Guia de Testes de Proficiência em Inglês
+# 📚 Guia de Proficiência em Inglês — Pós-Graduação IFCE
 
-> Este guia foi criado para auxiliar estudantes do Programa de Pós-Graduação em Ciência da Computação (PPGCC) do IFCE a encontrarem testes de proficiência em inglês aceitos pelo programa.
+> Guia para alunos dos programas de Pós-Graduação do IFCE sobre a comprovação de proficiência em inglês e quais exames são aceitos.
 
-## 📋 Requisitos do PPGCC (IFCE – Ciência da Computação)
+## 📋 Requisitos
 
-- O curso exige **comprovação de proficiência em inglês** como critério obrigatório para alunos regulares
-- Os detalhes completos sobre prazos, documentos aceitos e como fazer a solicitação estão disponíveis **[neste documento](proficiencia-ingles-ppgcc.md)**
-- Além da proficiência, o programa exige 24 créditos em disciplinas e 6 créditos referentes à dissertação
-- O prazo máximo para conclusão do curso é de **30 meses**
+- A comprovação é **obrigatória** para todos os alunos regulares.
+- Deve ser apresentada **até o início do 4º semestre** ou **no momento da solicitação da defesa**.
+- O comprovante deve estar **válido** e ter sido emitido **nos últimos 2 anos** (Art. 56 do Regulamento Geral da Pós-Graduação Stricto Sensu do IFCE).
+- O comprovante só é aceito se constar **nome completo e CPF e RG do aluno**.
+- Documentos digitais exigem **validação como nato-digital**.
 
-> ⚠️ Este guia é uma referência e não garantem ainda que todos os testes listados sejam aceitos pois ainda não foram validados pela coordenação do PPGCC, veja mais informações no [documento do link](proficiencia-ingles-ppgcc.md).
+## 📌 Formas aceitas de comprovação
 
-## 🆓 Testes Gratuitos Online
+1. **Curso de inglês regular** com certificado validado e **carga horária mínima de 150 horas**.
+2. **Certificados internacionais reconhecidos** (TOEFL, TOEIC e equivalentes validados).
+3. **Exame de proficiência de universidade reconhecida** (ver tabela abaixo).
 
-### 1. 🌟 EF SET
-- **Descrição:** Avalia habilidades de leitura e audição, fornecendo certificado gratuito reconhecido internacionalmente
-- **Link:** [efset.org](https://www.efset.org/)
+## ✅ Exames Já Aceitos
 
-### 2. ⚡ Testizer
-- **Descrição:** Teste online que avalia seu nível de inglês em 20 minutos e oferece certificado gratuito
-- **Link:** [testizer.com](https://testizer.com/tests/english-proficiency-test-online/)
+Exames oficiais de proficiência e de universidades reconhecidos pelo programa.
 
-### 3. 🎯 EnglishRadar
-- **Descrição:** Teste com 60 questões que abrangem níveis do CEFR de A1 a C2, com opção de certificado pago
-- **Link:** [englishradar.com](https://www.englishradar.com/english-test/)
+| Exame | Formato / Local | Taxa | Link |
+|---|---|---|---|
+| TOEFL | Presencial / Online | varia | [ets.org/toefl](https://www.ets.org/toefl.html) |
+| TOEIC | Presencial / Online | varia | [ets.org/toeic](https://www.ets.org/toeic.html) |
+| IELTS | Presencial – Cultura Inglesa (Fortaleza) | R$ 1.265,00 | [culturainglesa-ce.com.br](https://culturainglesa-ce.com.br/) |
+| EPLLI (UFC) | Presencial – Casa de Cultura Britânica (UFC) | verificar | [casasdeculturaestrangeira.ufc.br](https://casasdeculturaestrangeira.ufc.br/pt/casa-de-cultura-britanica/exame-de-proficiencia-em-lingua-inglesa-eplli/) |
+| UECE | Presencial – Campus Itaperi | R$ 240,00 | [uece.br](https://www.uece.br/nucleodelinguasitaperi/) |
+| FUNCERN/IFRN | Online | verificar | [funcern.br](https://funcern.br/projetos/proficiencia/) |
+| UFSC – EPLE | Online com agendamento | R$ 100,00 | [proficienciadlle.com](https://www.proficienciadlle.com/novo/) |
 
+## ❌ Exames Não Aceitos
 
-## 💰 Testes Pagos Online
+- Duolingo English Test
+- EF SET
+- Testizer
+- EnglishRadar
 
-### 1. 🦉 Duolingo English Test
-- **Descrição:** Teste online que avalia leitura, escrita, fala e audição, com resultados em 48 horas
-- **Informações Importantes:**
-  - 💻 Formato: 100% Online
-  - 📜 Certificado: Reconhecido internacionalmente
-  - ⚡ Resultados: Em 48 horas
-- **Link:** [englishtest.duolingo.com](https://englishtest.duolingo.com/)
+## ❓ Não Informado se Aceito
 
-### 2. 🇬🇧 British Council EnglishScore
-- **Descrição:** Teste móvel que avalia gramática, vocabulário, leitura e audição
-- **Informações Importantes:**
-  - 📱 Formato: Aplicativo móvel
-  - 📜 Certificado: Opcional (pago)
-- **Link:** [englishscore.com](https://www.englishscore.com/)
+- British Council EnglishScore
+- TrackTest
+- iTEP
 
-### 3. 📊 TrackTest
-- **Descrição:** Exames online alinhados ao CEFR
-- **Informações Importantes:**
-  - 💻 Formato: Online
-  - 🎯 Níveis: A1 a C2 (CEFR)
-  - 📜 Certificado: Opcional (pago)
-- **Link:** [tracktest.eu](https://tracktest.eu/)
+## ✉️ Como solicitar o registro
 
-### 4. 🌍 iTEP
-- **Descrição:** Teste online que avalia habilidades de leitura, escrita, audição e fala
-- **Informações Importantes:**
-  - 💻 Formato: Online
-  - 📜 Certificado: Incluído
-- **Link:** [itepexam.com](https://www.itepexam.com/)
+1. Enviar e-mail para **`dippg.secretaria@ifce.edu.br`** com o comprovante anexado, solicitando o **registro no sistema acadêmico**.
+2. Preencher o formulário oficial de solicitação (link na página do programa).
+3. Gerar um PDF da confirmação recebida por e-mail.
+4. Entregar o arquivo na portaria principal do campus para dar entrada em processo via **SEI (Sistema Eletrônico de Informações)**.
 
-### 5. 🌐 FUNCERN/IFRN - Exame Online
-- **Descrição:** Exame online de proficiência para pós-graduação
-- **Informações Importantes:**
-  - 💻 Formato: 100% Online
-  - 🎯 Nota mínima: 70 pontos
-  - ✉️ Contato: proficiencia@funcern.br
-- **Link:** [funcern.br](https://funcern.br/projetos/proficiencia/)
+## ⏳ Prazos
 
-### 6. 🎓 UFSC - EPLE Online
-- **Descrição:** Exame de Proficiência em Leitura oferecido pelo DLLE/UFSC
-- **Informações Importantes:**
-  - 💻 Formato: Online com agendamento
-  - 💰 Taxa: R$ 100,00
-  - 📚 Foco: Leitura acadêmica
-- **Link:** [proficienciadlle.com](https://www.proficienciadlle.com/novo/)
+- Até **24 meses após o ingresso** como aluno regular (Art. 30, §1º, "a").
+- Preferencialmente, **até o início do 4º semestre letivo**.
 
-## 🏛️ Testes Presenciais em Fortaleza/CE
+## 🔗 Links úteis
 
-### 1. 🌟 IELTS na Cultura Inglesa
-- **Descrição:** Centro oficial de aplicação do IELTS em Fortaleza
-- **Informações Importantes:**
-  - 💰 Taxa: R$ 1.265,00 (sujeito a alterações)
-  - 📅 Duração: 2h45min (Listening, Reading, Writing e Speaking)
-  - 📍 Local: Cultura Inglesa - Fortaleza
-  - ⏳ Validade: 2 anos
-  - 🎯 Modalidades: Academic e General Training
-- **Link:** [culturainglesa-ce.com.br](https://culturainglesa-ce.com.br/)
+- [Instruções oficiais de proficiência – IFCE](https://ppgcc.ifce.edu.br/?page_id=697)
 
-### 2. 📖 EPLLI (UFC)
-- **Descrição:** Exame de Proficiência em Leitura pela Casa de Cultura Britânica
-- **Informações Importantes:**
-  - 📚 Foco: Leitura e compreensão acadêmica
-  - 📍 Local: Casa de Cultura Britânica - UFC
-  - 📅 Datas: Verificar calendário atual
-- **Link:** [casasdeculturaestrangeira.ufc.br](https://casasdeculturaestrangeira.ufc.br/pt/casa-de-cultura-britanica/exame-de-proficiencia-em-lingua-inglesa-eplli/)
+> ℹ️ O processo é o mesmo para o **PPGET** e não apenas para o **PPGCC**.
 
-### 3. 📘 UECE - Exame de Proficiência
-- **Descrição:** Exame presencial do Núcleo de Línguas da UECE
-- **Informações Importantes:**
-  - 💰 Taxa: R$ 240,00
-  - 📅 Inscrições: 07 a 30 de abril/2025
-  - 📍 Local: Campus Itaperi - UECE
-  - ✉️ Contato: proficiencia.itaperi@gmail.com | (85) 3101-9673
-- **Link:** [uece.br](https://www.uece.br/nucleodelinguasitaperi/)
+---
+
+> ⚠️ **Importante:** o não cumprimento dos prazos pode resultar no desligamento do curso, conforme o Regimento Interno do programa. Este guia é uma referência — a validação final de qualquer exame é da coordenação do programa.
