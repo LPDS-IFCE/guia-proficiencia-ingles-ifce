@@ -25,7 +25,7 @@ Exames oficiais de proficiência e de universidades reconhecidos pelo programa.
 | TOEFL | Presencial / Online | varia | [ets.org/toefl](https://www.ets.org/toefl.html) |
 | TOEIC | Presencial / Online | varia | [ets.org/toeic](https://www.ets.org/toeic.html) |
 | IELTS | Presencial – Cultura Inglesa (Fortaleza) | R$ 1.265,00 | [culturainglesa-ce.com.br](https://culturainglesa-ce.com.br/) |
-| EPLLI (UFC) | Presencial – Casa de Cultura Britânica (UFC) | verificar | [casasdeculturaestrangeira.ufc.br](https://casasdeculturaestrangeira.ufc.br/pt/casa-de-cultura-britanica/exame-de-proficiencia-em-lingua-inglesa-eplli/) |
+| EPLLI (UFC) | Presencial – Casa de Cultura Britânica (UFC) | verificar | [casasdeculturaestrangeira.ufc.br](https://casasdeculturaestrangeira.ufc.br/pt/casa-de-cultura-britanica/https-casasdeculturaestrangeira-ufc-br-pt-casa-de-cultura-britanica-exame-de-proficiencia-leitora-em-lingua-inglesa-eplli-19525-2/) |
 | UECE | Presencial – Campus Itaperi | R$ 240,00 | [uece.br](https://www.uece.br/nucleodelinguasitaperi/) |
 | FUNCERN/IFRN | Online | verificar | [funcern.br](https://funcern.br/projetos/proficiencia/) |
 | UFSC – EPLE | Online com agendamento | R$ 100,00 | [proficienciadlle.com](https://www.proficienciadlle.com/novo/) |
